@@ -2,9 +2,14 @@
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
+- <b>Recommender System</b>
+  - [Anime Recommender](https://github.com/ET-777/Anime-Recommender-System)
 - <b>Computer Vision</b>
   - [Animal Classification](https://github.com/ET-777/Animal-Classification-Model)
-  - [Penumonia Classification with VGG16](https://github.com/ET-777/Pneumonia-Classification)
+  - [Pneumonia Classification with VGG16](https://github.com/ET-777/Pneumonia-Classification)
+- <b>Natural Language Processing (NLP)</b>
+  - [Amazon Book Reviews Classification](https://github.com/ET-777/Amazon-Book-Reviews-Classification)
+  - [Emotions Classification](https://github.com/ET-777/Emotions-Classification)
 - <b>Deep Learning</b>
   - [Credit Risk Classification](https://github.com/ET-777/Credit-Risk-Classification)
 - <b>Linear, Logistic, and Polynomial Regression</b>
