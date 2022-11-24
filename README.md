@@ -1,7 +1,34 @@
-### Hi there 👋
+<h1>Hi, I'm Eugenio!</h1>
+
+<h2>👨‍💻 Machine Learning Projects:</h2>
+
+- <b>Computer Vision</b>
+  - [Animal Classification](https://github.com/ET-777/Animal-Classification-Model)
+  - [Penumonia Classification with VGG16](https://github.com/ET-777/Pneumonia-Classification)
+- <b>Deep Learning</b>
+  - [Credit Risk Classification](https://github.com/ET-777/Credit-Risk-Classification)
+- <b>Linear, Logistic, and Polynomial Regression</b>
+  - [Medical Costs](https://github.com/ET-777/Medical-Cost-Regression)
+  - [Heart Disease](https://github.com/ET-777/Heart-Disease-Classification)
+- <b>Decison Tree</b>
+  - [Rice Seed Classification](https://github.com/ET-777/Rice-Seed-Classification)
+- <b>Clustering</b>
+  - [Credit K-Means](https://github.com/ET-777/Credit-Clustering)
+
+<h2>📜 Certifications</h2>
+
+- [BSA Computer Science](https://www.registrar.psu.edu/graduation/diplomas/cediploma/validate)
+  - CeDiD: 21XP-NFGR-EPA5
+  - Name: Eu
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/G583YR4XL7XC)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**ET-777/ET-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
