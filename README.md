@@ -18,7 +18,7 @@
 - <b>Decison Trees</b>
   - [Decion Trees for Binary Rice Seed Classification](https://github.com/ET-777/Rice-Seed-Classification)
 - <b>Clustering</b>
-  - [K-Means Clustring for Credit Card Customer Data](https://github.com/ET-777/Credit-Clustering)
+  - [K-Means Clustering for Credit Card Customer Data](https://github.com/ET-777/Credit-Clustering)
 
 <h2>📜 Certifications</h2>
 
