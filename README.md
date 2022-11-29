@@ -3,22 +3,22 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Recommender System</b>
-  - [Anime Recommender](https://github.com/ET-777/Anime-Recommender-System)
+  - [Anime Recommendation System with Content-based Filtering and Feature Engineering](https://github.com/ET-777/Anime-Recommender-System)
 - <b>Computer Vision</b>
-  - [Animal Classification](https://github.com/ET-777/Animal-Classification-Model)
+  - [Convolutional Neural Network (CNN) for Animal Classification](https://github.com/ET-777/Animal-Classification-Model)
   - [Pneumonia Classification with VGG16](https://github.com/ET-777/Pneumonia-Classification)
 - <b>Natural Language Processing (NLP)</b>
-  - [Amazon Book Reviews Classification](https://github.com/ET-777/Amazon-Book-Reviews-Classification)
-  - [Emotions Classification](https://github.com/ET-777/Emotions-Classification)
+  - [Amazon Book Reviews Classification with BERT](https://github.com/ET-777/Amazon-Book-Reviews-Classification)
+  - [Bidirectional Long Short-Term Memory (BLSTM) Network for Emotions Classification in Text](https://github.com/ET-777/Emotions-Classification)
 - <b>Deep Learning</b>
-  - [Credit Risk Classification](https://github.com/ET-777/Credit-Risk-Classification)
+  - [Neural Network for Binary Credit Risk Classification](https://github.com/ET-777/Credit-Risk-Classification)
 - <b>Linear, Logistic, and Polynomial Regression</b>
-  - [Medical Costs](https://github.com/ET-777/Medical-Cost-Regression)
-  - [Heart Disease](https://github.com/ET-777/Heart-Disease-Classification)
-- <b>Decison Tree</b>
-  - [Rice Seed Classification](https://github.com/ET-777/Rice-Seed-Classification)
+  - [Linear and Polynomial Regression for Multivariate Medical Costs](https://github.com/ET-777/Medical-Cost-Regression)
+  - [Logistic and Polynomial Regression for Heart Disease Classification](https://github.com/ET-777/Heart-Disease-Classification)
+- <b>Decison Trees</b>
+  - [Decion Trees for Binary Rice Seed Classification](https://github.com/ET-777/Rice-Seed-Classification)
 - <b>Clustering</b>
-  - [Credit K-Means](https://github.com/ET-777/Credit-Clustering)
+  - [K-Means Clustring for Credit Card Customer Data](https://github.com/ET-777/Credit-Clustering)
 
 <h2>📜 Certifications</h2>
 
@@ -29,9 +29,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Eugenio Tijerina | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
+[<img align="left" alt="eugenio_tijerina@gmail.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][mail]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/eugenio-tijerina-a98001204/
+[mail]: mailto:eugenio_tijerina@gmail.com
 
 <!--
 
