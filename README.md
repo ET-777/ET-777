@@ -33,7 +33,7 @@
 [<img align="left" alt="eugenio_tijerina@gmail.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][mail]
 
 [linkedin]: https://www.linkedin.com/in/eugenio-tijerina-a98001204/
-[mail]: mailto:eugenio_tijerina@gmail.com
+[mail]: mailto:eugenio_tijerina@hotmail.com
 
 <!--
 
