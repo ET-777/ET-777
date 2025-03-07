@@ -16,7 +16,7 @@
   - [Linear and Polynomial Regression for Multivariate Medical Costs](https://github.com/ET-777/Medical-Cost-Regression)
   - [Logistic and Polynomial Regression for Heart Disease Classification](https://github.com/ET-777/Heart-Disease-Classification)
 - <b>Decison Trees</b>
-  - [Decion Trees for Binary Rice Seed Classification](https://github.com/ET-777/Rice-Seed-Classification)
+  - [Decision Trees for Binary Rice Seed Classification](https://github.com/ET-777/Rice-Seed-Classification)
 - <b>Clustering</b>
   - [K-Means Clustering for Credit Card Customer Data](https://github.com/ET-777/Credit-Clustering)
 
